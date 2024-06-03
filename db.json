@@ -1,0 +1,19 @@
+{
+    "articles": [
+      {
+        "title": "Sepakbola",
+        "content": "OLahraga",
+        "id": "20"
+      },
+      {
+        "id": "02",
+        "title": "Basket",
+        "content": "OLahraga"
+      },
+      {
+        "id": "03",
+        "title": "Tenis Meja",
+        "content": "Bola kecil"
+      }
+    ]
+  }
